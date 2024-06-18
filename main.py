@@ -6,4 +6,3 @@ class MyApp(ShowBase):
 
 game = MyApp()
 game.run()
-    
